@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <Header nombre="Caetano" profesion="Frontend Developer" />
+      <Header nombre="Caetano" profesion="estudiante de programación" />
       <Hero />
       <About />
       <Skills />
