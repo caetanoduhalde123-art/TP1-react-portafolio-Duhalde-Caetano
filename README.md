@@ -6,7 +6,7 @@ Alejandro Caetano Duhalde
 -Descripción:
 Primer trabajo práctico de React. Portfolio personal con componentes, props, estado y renderizado dinámico.
 
-- Tecnologías
+Tecnologías
 - React
 - Vite
 - JavaScript
