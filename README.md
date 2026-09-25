@@ -1,9 +1,9 @@
 -TP1 Portfolio React
 
- -Autor
+ -Autor:
 Alejandro Caetano Duhalde
 
--Descripción
+-Descripción:
 Primer trabajo práctico de React. Portfolio personal con componentes, props, estado y renderizado dinámico.
 
 - Tecnologías
