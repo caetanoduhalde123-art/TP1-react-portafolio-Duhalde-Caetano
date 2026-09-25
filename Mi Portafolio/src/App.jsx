@@ -10,7 +10,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <Header nombre="Caetano" profesion="estudiante de programación" />
+      <Header nombre="Alejandro Caetano Duhalde" profesion="estudiante de programacion en la UTN" />
       <Hero />
       <About />
       <Skills />
