@@ -1,19 +1,19 @@
-# TP1 Portfolio React
+-TP1 Portfolio React
 
-## Autor
-Caetano [Apellido]
+ -Autor
+Alejandro Caetano Duhalde
 
-## Descripción
+-Descripción
 Primer trabajo práctico de React. Portfolio personal con componentes, props, estado y renderizado dinámico.
 
-## Tecnologías
+- Tecnologías
 - React
 - Vite
 - JavaScript
 - HTML
 - CSS
 
-## Instalación
+-Instalación
 ```bash
 npm install
 npm run dev
